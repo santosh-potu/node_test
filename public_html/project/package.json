@@ -1,0 +1,14 @@
+{
+    "name": "project",
+    "version" : "1.0.0",
+    "main": "TestMarkDown.js",
+    "scripts":{
+        "test": "echo \"No test Sepcified \" && exit 1 "
+    },
+    "dependencies":{
+      "node-markdown" :"0.1.0"  
+    },
+    "author": "santosh Potu",
+    "licence": "BSD"
+    
+}
